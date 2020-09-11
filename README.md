@@ -1,1 +1,2 @@
 # SpringBoot-Backend
+this software is made for Future Careers Bridge Programme. In a BookShop we need to sell books and add new books to the stock in the book stock. There is a little stock managemnet system in the web app. And You have the ability to look at all the sold the books by dates. And also you dont want any extra time calculate the profits. This web app will calculate the profits for you. You only have to go to the profits tab to see all the profits. So this is the problem solved by the web app.
